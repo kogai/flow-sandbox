@@ -1,0 +1,15 @@
+{
+  "name": "flowtyped-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "flow"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flow-bin": "^0.53.1"
+  }
+}
