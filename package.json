@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "flow-bin": "^0.53.1"
+    "flow-bin": "^0.57.3"
   }
 }
