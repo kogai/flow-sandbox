@@ -1,5 +1,6 @@
 [ignore]
 .*/node_modules/*
+.*json
 
 [include]
 
@@ -8,7 +9,7 @@
 [options]
 all=true
 no_flowlib=true
-sharedmemory.log_level=2
+sharedmemory.log_level=1
 server.max_workers=0 
 module.system.node.resolve_dirname=foo
 
