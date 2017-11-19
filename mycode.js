@@ -1,10 +1,2 @@
 // @flow
-
-type P = {
-  a: string,
-};
-
-type M = $ObjMap<P, <V>(V) => () => V>;
-const m: M = {
-  a: () => true,
-};
+({ a: () => true }: $ObjMap<{a:string}, <V>(V) => () => V>);
