@@ -7,10 +7,8 @@
 [libs]
 
 [options]
-all=true
 no_flowlib=true
 sharedmemory.log_level=0
 server.max_workers=0 
 
 [lints]
-all=error
